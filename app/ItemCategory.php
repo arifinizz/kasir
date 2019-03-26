@@ -1,6 +1,6 @@
 <?php
 
-namespace Transaction;
+namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 use Transaction\Item;
